@@ -2,7 +2,7 @@
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Scikit-Learn](https://img.shields.io/badge/Libraries-ScikitLearn-orange.svg)![NLTK](https://img.shields.io/badge/NLTK-brightyellow.svg)
 
-This repository consists of files required for end to end implementation and deployment of Machine Learning NLP Restaurant Reviews Sentiment Analysis web application created with Flask on Heroku platform.
+This repository consists of files required for end to end implementation and deployment of Machine Learning NLP Restaurant Reviews Sentiment Analysis web application created with flask and deployed on Heroku platform.
 
 ## Table of Contents
   * [App Link](#app-link)
@@ -14,11 +14,13 @@ This repository consists of files required for end to end implementation and dep
 
 ## App Link
 If you want to view the deployed model, click on the following link:<br />
-[https://airlinefareprediction.herokuapp.com/](https://airlinefareprediction.herokuapp.com/)
+[ https://resrevsent.herokuapp.com/]( https://resrevsent.herokuapp.com/)
 
 A glimpse of the web app:
 
 ![GIF](readme_resources/flight-web-app.gif)
+![GIF](readme_resources/negresrev.gif)
+![GIF](readme_resources/posresrev.gif)
 
 • If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by the Heroku platform have been completely used.** You can access the webpage on 1st of the next month.
 
